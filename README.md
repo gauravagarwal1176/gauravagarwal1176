@@ -1,6 +1,6 @@
-👋 Hi, I’m @gauravagarwal1176
+👋 Hi, I’m Gaurav Agarwal
 
-👀 I’m interested in software development, data science, and machine learning.
+👀 I’m interested in data science and machine learning.
 
 🌱 I’m currently upgrading myself
 
