@@ -2,9 +2,9 @@
 
 👀 I’m interested in software development, data science, and machine learning.
 
-🌱 I’m currently learning advanced SQL techniques and data visualization with Python.
+🌱 I’m currently upgrading myself
 
-💞️ I’m looking to collaborate on open-source projects related to data analysis and machine learning.
+💞️ I’m looking to collaborate with a team
 
 📫 How to reach me: Kr7541800@gmail.com
 
